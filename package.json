@@ -20,7 +20,7 @@
     "vue": "vue/dist/vue.common.js"
   },
   "dependencies": {
-    "auth0-js": "^9.11.2",
+    "auth0-js": "^9.13.2",
     "bcrypt-nodejs": "0.0.3",
     "hapi": "^16.3.0",
     "sweetalert": "^1.1.3",
